@@ -1,0 +1,7 @@
+digraph "com.example.maven-project:webapp:war:1.0-SNAPSHOT" { 
+	"com.example.maven-project:webapp:war:1.0-SNAPSHOT" -> "javax.servlet:servlet-api:jar:2.5:provided" ; 
+	"com.example.maven-project:webapp:war:1.0-SNAPSHOT" -> "javax.servlet.jsp:jsp-api:jar:2.2:provided" ; 
+ } digraph "com.example.maven-project:webapp:war:1.0-SNAPSHOT" { 
+	"com.example.maven-project:webapp:war:1.0-SNAPSHOT" -> "javax.servlet:servlet-api:jar:2.5:provided" ; 
+	"com.example.maven-project:webapp:war:1.0-SNAPSHOT" -> "javax.servlet.jsp:jsp-api:jar:2.2:provided" ; 
+ } 
